@@ -1,6 +1,6 @@
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5582459.svg)](https://doi.org/10.5281/zenodo.5582459)
 
-# Genomics Workshop Overview
+# Prenomics Workshop Overview
 
 Overview of the Cloud-SPAN Prenomics course.
 
