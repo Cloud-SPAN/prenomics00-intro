@@ -91,4 +91,4 @@ exclude:
 highlighter: rouge
 
 # Remote theme
-remote_theme: Cloud-SPAN/cloud-span-theme
+remote_theme: Cloud-SPAN/cloud-span-prenomics-theme
