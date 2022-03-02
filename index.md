@@ -1,7 +1,7 @@
 ---
 ---
 
-[Cloud-SPAN](https://cloud-span.york.ac.uk) is a collaboration between the [Department of Biology](https://www.york.ac.uk/biology/) at the University of York and [The Software Sustainability Institute] funded by the UKRI innovation scholars award. It aims to train researchers to effectively generate and analyse a range of 'omics data using Cloud computing resources.
+[Cloud-SPAN](https://cloud-span.york.ac.uk) is a collaboration between the [Department of Biology](https://www.york.ac.uk/biology/) at the University of York and [The Software Sustainability Institute](https://www.software.ac.uk/) funded by the UKRI innovation scholars award. It aims to train researchers to effectively generate and analyse a range of 'omics data using Cloud computing resources.
 
 This Prenomics course is designed to prepare people for the [Cloud-SPAN Genomics course](https://cloud-span.york.ac.uk/train-with-us#genomicscourse). We have found that people taking the Genomics course can vary the amount of experience they have had in navigating file systems and using the command line. We have designed the Prenomics course to allow more time for those with less experience to cover some foundation concepts. We have a [Self-assessment Quiz](https://shiny.york.ac.uk/er13/prenomics-quiz/#section-why) to help you decide if you would benefit from attending Prenomics before the Genomics course.
 
