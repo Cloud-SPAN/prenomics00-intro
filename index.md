@@ -9,15 +9,18 @@ The Prenomics and Genomics modules are based on the Data Carpentry's [Genomics W
 
 Prenomics teaches the basics of command-line programming, including: (1) file directory structure, (2) use of command-line utilities to connect to and use cloud computing and storage resources and (3) basic shell commands for file navigation and basic script writing.
 
-The module is designed to be taught over two half days of instruction.
+The module is designed for a two half-day, tutor-led workshop, or for self study.
 
 > ## Getting Started
 >
+> Carry out our short [Self-assessment Quiz](https://shiny.york.ac.uk/er13/prenomics-quiz/#section-why) to help you decide if you would benefit from attending Prenomics before the Genomics module.
+> 
+> This lesson uses an Amazon Machine Instance (AMI). If you are attending a tutor-led workshop your AMI will be created for you and will be sent the log in information you will need to use it. If you are self-studying Prenomics, you will need to set up your own instance using our [Create Your Own AWS Instance](https://cloud-span.github.io/create-aws-instance-0-overview/) module before starting.
+> 
 > This module assumes that learners have no prior experience with the tools covered.
-> Participants will need their own laptops and plan to participate actively.
 >
-> To get started, follow the directions in the [Setup](setup) tab to get access to the required
-> software and data for this workshop.
+> To get started, follow the directions in the [Setup](setup) tab to get access to the required software and data for this workshop.
+> 
 {: .prereq}
 
 # Overview
