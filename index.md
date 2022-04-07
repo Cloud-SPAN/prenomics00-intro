@@ -1,4 +1,18 @@
 ---
+bioschemas:
+  "@context": "https://schema.org"
+  "@id": "https://cloud-span.github.io/prenomics00-intro/"
+  "@type": "LearningResource"
+  "http://purl.org/dc/terms/conformsTo":
+  - "@type": CreativeWork
+    "@id": "https://bioschemas.org/profiles/TrainingMaterial/0.9-DRAFT-2020_12_08/"
+  about:
+  - "@id": "http://edamontology.org/topic_3372"
+  - "@id": "http://edamontology.org/topic_0622"
+  abstract: "Prenomics prepares learners for the Cloud-SPAN Genomics course. It teaches the basics of command-line programming, including: (1) file directory structure, (2) use of command-line utilities to connect to and use cloud computing and storage resources and (3) basic shell commands for file navigation and basic script writing."
+  author: ["Emma Rand", "James Chong", "Sarah Forrester", "Annabel Cansdale", "Jorge Buenabad-Chavez", "Evelyn Greeves"]
+  name: "Cloud-SPAN Prenomics Course"
+  url: "https://cloud-span.github.io/prenomics00-intro/"
 ---
 
 [Cloud-SPAN](https://cloud-span.york.ac.uk) is a collaboration between the [Department of Biology](https://www.york.ac.uk/biology/) at the University of York and [The Software Sustainability Institute](https://www.software.ac.uk/) funded by the UKRI innovation scholars award. It aims to train researchers to effectively generate and analyse a range of 'omics data using Cloud computing resources.
