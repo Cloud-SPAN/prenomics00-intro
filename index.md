@@ -6,7 +6,8 @@ bioschemas:
   "http://purl.org/dc/terms/conformsTo":
   - "@type": CreativeWork
     "@id": "https://bioschemas.org/profiles/TrainingMaterial/0.9-DRAFT-2020_12_08/"
-  about:
+    description:  
+  about: "Prenomics prepares learners for the Cloud-SPAN Genomics course. It teaches the basics of command-line programming, including: (1) file directory structure, (2) use of command-line utilities to connect to and use cloud computing and storage resources and (3) basic shell commands for file navigation and basic script writing."
   - "@id": "http://edamontology.org/topic_3372"
   - "@id": "http://edamontology.org/topic_0622"
   abstract: "Prenomics prepares learners for the Cloud-SPAN Genomics course. It teaches the basics of command-line programming, including: (1) file directory structure, (2) use of command-line utilities to connect to and use cloud computing and storage resources and (3) basic shell commands for file navigation and basic script writing."
@@ -17,7 +18,7 @@ bioschemas:
   name: "Cloud-SPAN Prenomics Course"
   url: "https://cloud-span.github.io/prenomics00-intro/"
   inLanguage: "en"
-  keywords: "shell, command line tools, cloud computing, AWS, genomics"
+  keywords: "shell, command line tools, cloud computing, AWS, genomics, HPC"
   license: CC-BY 4.0
   timeRequired: "PT12H"
   mentions: ["Git for Windows", "Cloud-SPAN genomics course", "Data Carpentries genomics workshop"]
