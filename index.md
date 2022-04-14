@@ -17,10 +17,10 @@ bioschemas:
   name: "Cloud-SPAN Prenomics Course"
   url: "https://cloud-span.github.io/prenomics00-intro/"
   inLanguage: "en"
-  keywords: "shell, command line tools, cloud computing, AWS, genomics, HPC"
+  keywords: "shell, command line tools, cloud computing, AWS, genomics, HPC, data analysis"
   license: CC-BY 4.0
   timeRequired: "PT6H"
-  mentions: ["Git for Windows", "Cloud-SPAN genomics course", "Data Carpentries genomics workshop"]
+  mentions: ["Git for Windows", "Cloud-SPAN Genomics course", "Data Carpentries Genomics workshop"]
 ---
 
 [Cloud-SPAN](https://cloud-span.york.ac.uk) is a collaboration between the [Department of Biology](https://www.york.ac.uk/biology/) at the University of York and [The Software Sustainability Institute](https://www.software.ac.uk/) funded by the UKRI innovation scholars award. It aims to train researchers to effectively generate and analyse a range of 'omics data using Cloud computing resources.
