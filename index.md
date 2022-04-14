@@ -17,7 +17,7 @@ bioschemas:
   name: "Cloud-SPAN Prenomics Course"
   url: "https://cloud-span.github.io/prenomics00-intro/"
   inLanguage: "en"
-  keywords: "shell, command line tools, cloud computing, AWS, genomics"
+  keywords: "shell, command line tools, cloud computing, AWS, genomics, HPC"
   license: CC-BY 4.0
   timeRequired: "PT6H"
   mentions: ["Git for Windows", "Cloud-SPAN genomics course", "Data Carpentries genomics workshop"]
