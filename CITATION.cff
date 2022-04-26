@@ -40,6 +40,6 @@ references:
     date-released: "2019-06-01"
     doi: http://doi.org/10.5281/zenodo.3260309
     repository-code: "https://github.com/datacarpentry/genomics-workshop"
-    title: Data Carpentry`:` Genomics Workshop Overview
+    title: "Data Carpentry: Genomics Workshop Overview"
     type: software
     version: v2019.06.1
