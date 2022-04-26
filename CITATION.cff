@@ -23,3 +23,23 @@ version: 0.1.0
 doi: 10.5281/zenodo.6354056
 date-released: 2022-03-01
 url: "https://cloud-span.github.io/prenomics00-intro/"
+references:
+  - authors:
+    - family-names: "Becker"
+      given-names: "Erin Alison"
+    - family-names: "Teal"
+      given-names: "Tracy"
+    - family-names: "Michonneau"
+      given-names: "Francois"
+    - family-names: "Sane"
+      given-names: "Maneesha"
+    - family-names: "Reiter"
+      given-names: "Taylor"
+    - family-names: "Williams"
+      given-names: "Jason"
+    date-released: "2019-06-01"
+    doi: http://doi.org/10.5281/zenodo.3260309
+    repository-code: "https://github.com/datacarpentry/genomics-workshop"
+    title: Data Carpentry`:` Genomics Workshop Overview
+    type: software
+    version: v2019.06.1
