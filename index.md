@@ -1,8 +1,8 @@
 ---
 bioschemas:
   "@context": "https://schema.org"
-  "@id": "https://cloud-span.github.io/prenomics00-intro/"
   "@type": "LearningResource"
+  "@id": "https://cloud-span.github.io/prenomics00-intro/"
   "http://purl.org/dc/terms/conformsTo":
   - "@type": CreativeWork
     "@id": "https://bioschemas.org/profiles/TrainingMaterial/0.9-DRAFT-2020_12_08/"
