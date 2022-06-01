@@ -10,7 +10,7 @@ The Prenomics module is designed to prepare people for the [Cloud-SPAN Genomics 
 
 The Prenomics and Genomics modules are based on the Data Carpentry's [Genomics Workshop](https://datacarpentry.org/genomics-workshop/).
 
-Prenomics teaches the basics of command-line programming, including: (1) file directory structure, (2) use of command-line utilities to connect to and use cloud computing and storage resources and (3) basic shell commands for file navigation and basic script writing.
+Prenomics teaches the basics of command-line programming, including: (1) file directory structure, (2) use of command-line utilities to connect to and use cloud computing and storage resources and (3) basic shell commands for file navigation.
 
 The module is designed for a two half-day, tutor-led workshop, or for self study.
 
