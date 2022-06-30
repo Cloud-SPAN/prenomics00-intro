@@ -13,7 +13,7 @@ bioschemas:
   author: ["Emma Rand", "Sarah Forrester", "Annabel Cansdale", "Jorge Buenabad-Chavez", "Evelyn Greeves"]
   contributor: ["James Chong", "Emma Barnes", "University of York", "Software Sustainability Institute"]
   educationalLevel: "Beginner"
-  identifier: "10.5281/zenodo.6354056\t"
+  identifier: "https://doi.org/10.5281/zenodo.6354056"
   name: "Cloud-SPAN Prenomics Course"
   url: "https://cloud-span.github.io/prenomics00-intro/"
   inLanguage: "en"
